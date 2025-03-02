@@ -1,0 +1,72 @@
+[
+  {
+    "id": "26f00fbe-3a5e-4770-b8f3-793896166f48",
+    "userId": "39d78598-fd4a-4be3-a50d-c21f2f19deb3",
+    "amount": 35000,
+    "type": "Purchase",
+    "createdAt": "2024-12-27T11:39:25.872Z"
+  },
+  {
+    "id": "cb3c1949-e9b6-436c-abe8-ba897d0f471f",
+    "userId": "39d78598-fd4a-4be3-a50d-c21f2f19deb3",
+    "amount": 185000,
+    "type": "Purchase",
+    "createdAt": "2024-12-27T14:04:16.496Z"
+  },
+  {
+    "id": "7a55aeeb-efb8-4c6c-b8f5-99ff6f47950c",
+    "userId": "39d78598-fd4a-4be3-a50d-c21f2f19deb3",
+    "amount": 18000,
+    "type": "Purchase",
+    "createdAt": "2024-12-27T14:05:12.373Z"
+  },
+  {
+    "id": "a24f3312-54d7-4c11-a0f2-a43e625ab335",
+    "userId": "39d78598-fd4a-4be3-a50d-c21f2f19deb3",
+    "amount": 240000,
+    "type": "Purchase",
+    "createdAt": "2024-12-27T14:05:27.061Z"
+  },
+  {
+    "id": "dad3169d-3823-4c6c-a1d9-c798b8536e68",
+    "userId": "39d78598-fd4a-4be3-a50d-c21f2f19deb3",
+    "amount": 35000,
+    "type": "Purchase",
+    "createdAt": "2024-12-27T14:05:43.717Z"
+  },
+  {
+    "id": "1f61d98c-41c6-43ce-b6c5-c8af32607ee3",
+    "userId": "73eb57fb-8579-401f-b4fc-0812375657ea",
+    "amount": 35000,
+    "type": "Purchase",
+    "createdAt": "2024-12-27T14:14:50.627Z"
+  },
+  {
+    "id": "4cda11e6-aa51-4090-8480-ca4a4415d4ae",
+    "userId": "73eb57fb-8579-401f-b4fc-0812375657ea",
+    "amount": 105000,
+    "type": "Purchase",
+    "createdAt": "2024-12-27T14:15:03.945Z"
+  },
+  {
+    "id": "edcb4281-9bc5-4efc-8790-39885bbd8139",
+    "userId": "39d78598-fd4a-4be3-a50d-c21f2f19deb3",
+    "amount": 240000,
+    "type": "Purchase",
+    "createdAt": "2025-02-17T16:11:02.320Z"
+  },
+  {
+    "id": "8a95f87f-b99a-4410-a2d4-b07d16c1e8aa",
+    "userId": "1bbe8a8d-b80d-4b0b-bb1a-db8b03d1b451",
+    "amount": 105000,
+    "type": "Purchase",
+    "createdAt": "2025-02-17T16:12:25.490Z"
+  },
+  {
+    "id": "d3102ee2-d0fb-444e-95a4-e86501dcdcc8",
+    "userId": "39d78598-fd4a-4be3-a50d-c21f2f19deb3",
+    "amount": 105000,
+    "type": "Purchase",
+    "createdAt": "2025-02-25T19:00:10.565Z"
+  }
+]
